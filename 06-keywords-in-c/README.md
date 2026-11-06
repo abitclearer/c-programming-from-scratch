@@ -1,23 +1,23 @@
 # Episode 06 · Keywords in C
 
-*Reserved Words and the 32 Classic Keywords*
+*Reserved Words and Language Vocabulary*
 
-Keywords are reserved words built into C, each with a fixed meaning. ANSI C and C89 defined 32 of them.
+Keywords are reserved words built into C with permanent grammatical meanings. You cannot invent keywords or use them as variable names; the 32 classic keywords from ANSI C form the foundation of C's vocabulary.
 
 **Notes:** [06-keywords-in-c.pdf](06-keywords-in-c.pdf) (colour PDF, A4)
 
 ## Key points
 
-- Keywords, like int and return, belong to the language.
-- You can't invent keywords or use one as a name.
-- ANSI C / C89 defined exactly 32 classic keywords.
-- int char; fails: char is a keyword, not a name.
+- Keywords are reserved by the language; words like int and return have built-in meanings.
+- Two strict rules: you cannot invent new keywords, and variable/function names cannot collide with keywords.
+- ANSI C (C89) defined exactly 32 classic keywords, making up almost all of C's core vocabulary.
+- Attempting to name a variable after a keyword (e.g. int char;) causes a syntax error.
 
 ## Code
 
 | File | What it is |
 |---|---|
-| [`code/mistakes/keyword-identifier.c`](code/mistakes/keyword-identifier.c) | Mistake example, does not build on purpose: char is a keyword, not a name. |
+| [`code/mistakes/keyword-identifier.c`](code/mistakes/keyword-identifier.c) | Mistake example |
 | [`code/variable-naming.c`](code/variable-naming.c) | Program from the video |
 
 Each program ends with an `/* Output: */` comment showing what it prints. To run one, add the file to an empty

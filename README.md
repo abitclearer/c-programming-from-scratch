@@ -11,7 +11,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 03 | [Your First C Program](03-your-first-c-program/README.md)<br><sub>From Empty Project to Running Code</sub> | [PDF](03-your-first-c-program/03-your-first-c-program.pdf) | [code](03-your-first-c-program/code) |
 | 04 | [The main Function](04-the-main-function/README.md)<br><sub>Where Every C Program Starts</sub> | [PDF](04-the-main-function/04-the-main-function.pdf) | [code](04-the-main-function/code) |
 | 05 | [printf and Library Functions](05-printf-and-library-functions/README.md)<br><sub>Printing with the Standard Library</sub> | [PDF](05-printf-and-library-functions/05-printf-and-library-functions.pdf) | [code](05-printf-and-library-functions/code) |
-| 06 | [Keywords in C](06-keywords-in-c/README.md)<br><sub>Reserved Words and the 32 Classic Keywords</sub> | [PDF](06-keywords-in-c/06-keywords-in-c.pdf) | [code](06-keywords-in-c/code) |
+| 06 | [Keywords in C](06-keywords-in-c/README.md)<br><sub>Reserved Words and Language Vocabulary</sub> | [PDF](06-keywords-in-c/06-keywords-in-c.pdf) | [code](06-keywords-in-c/code) |
 
 ## Using the code
 

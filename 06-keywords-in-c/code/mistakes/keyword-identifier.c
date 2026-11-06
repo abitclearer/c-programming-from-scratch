@@ -1,7 +1,8 @@
-// This file does not compile on purpose: char is a keyword, not a name.
+/* This file does not compile on purpose:
+ * keywords cannot be variable names */
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     int char;
     return 0;

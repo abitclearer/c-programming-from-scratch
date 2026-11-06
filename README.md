@@ -12,6 +12,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 04 | [The main Function](04-the-main-function/README.md)<br><sub>Where Every C Program Starts</sub> | [PDF](04-the-main-function/04-the-main-function.pdf) | [code](04-the-main-function/code) |
 | 05 | [printf and Library Functions](05-printf-and-library-functions/README.md)<br><sub>Printing with the Standard Library</sub> | [PDF](05-printf-and-library-functions/05-printf-and-library-functions.pdf) | [code](05-printf-and-library-functions/code) |
 | 06 | [Keywords in C](06-keywords-in-c/README.md)<br><sub>Reserved Words and Language Vocabulary</sub> | [PDF](06-keywords-in-c/06-keywords-in-c.pdf) | [code](06-keywords-in-c/code) |
+| 07 | [Comments in C](07-comments-in-c/README.md)<br><sub>Writing for Humans and Compilers</sub> | [PDF](07-comments-in-c/07-comments-in-c.pdf) | [code](07-comments-in-c/code) |
 
 ## Using the code
 

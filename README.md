@@ -15,6 +15,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 07 | [Comments](07-comments/README.md)<br><sub>Explain the Code</sub> | [PDF](07-comments/07-comments.pdf) | [code](07-comments/code) |
 | 08 | [Data Types](08-data-types/README.md)<br><sub>char, int, float and double</sub> | [PDF](08-data-types/08-data-types.pdf) | [code](08-data-types/code) |
 | 09 | [The Boolean Type](09-the-boolean-type/README.md)<br><sub>True, False, and a Bit of History</sub> | [PDF](09-the-boolean-type/09-the-boolean-type.pdf) | [code](09-the-boolean-type/code) |
+| 10 | [Type Modifiers](10-type-modifiers/README.md)<br><sub>Fine-Tuning the Built-In Types</sub> | [PDF](10-type-modifiers/10-type-modifiers.pdf) | [code](10-type-modifiers/code) |
 
 ## Using the code
 

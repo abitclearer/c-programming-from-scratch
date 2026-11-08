@@ -13,7 +13,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 05 | [printf and Library Functions](05-printf-and-library-functions/README.md)<br><sub>Printing with the Standard Library</sub> | [PDF](05-printf-and-library-functions/05-printf-and-library-functions.pdf) | [code](05-printf-and-library-functions/code) |
 | 06 | [Keywords in C](06-keywords-in-c/README.md)<br><sub>Reserved Words and Language Vocabulary</sub> | [PDF](06-keywords-in-c/06-keywords-in-c.pdf) | [code](06-keywords-in-c/code) |
 | 07 | [Comments](07-comments/README.md)<br><sub>Explain the Code</sub> | [PDF](07-comments/07-comments.pdf) | [code](07-comments/code) |
-| 08 | [Software Engineering: The Development Lifecycle](08-software-engineering-the-development-lifecycle/README.md)<br><sub>How Real Software Is Planned, Designed, and Built</sub> | [PDF](08-software-engineering-the-development-lifecycle/08-software-engineering-the-development-lifecycle.pdf) | — |
+| 08 | [Data Types](08-data-types/README.md)<br><sub>char, int, float and double</sub> | [PDF](08-data-types/08-data-types.pdf) | [code](08-data-types/code) |
 
 ## Using the code
 

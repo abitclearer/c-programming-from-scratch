@@ -17,6 +17,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 09 | [The Boolean Type](09-the-boolean-type/README.md)<br><sub>True, False, and a Bit of History</sub> | [PDF](09-the-boolean-type/09-the-boolean-type.pdf) | [code](09-the-boolean-type/code) |
 | 10 | [Type Modifiers](10-type-modifiers/README.md)<br><sub>Fine-Tuning the Built-In Types</sub> | [PDF](10-type-modifiers/10-type-modifiers.pdf) | [code](10-type-modifiers/code) |
 | 11 | [Sizes and Signs](11-sizes-and-signs/README.md)<br><sub>sizeof, short, long, signed and unsigned</sub> | [PDF](11-sizes-and-signs/11-sizes-and-signs.pdf) | [code](11-sizes-and-signs/code) |
+| 12 | [Data Type Ranges](12-data-type-ranges/README.md)<br><sub>limits.h, float.h and overflow</sub> | [PDF](12-data-type-ranges/12-data-type-ranges.pdf) | [code](12-data-type-ranges/code) |
 
 ## Using the code
 

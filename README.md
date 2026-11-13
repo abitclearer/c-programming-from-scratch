@@ -19,6 +19,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 11 | [Sizes and Signs](11-sizes-and-signs/README.md)<br><sub>sizeof, short, long, signed and unsigned</sub> | [PDF](11-sizes-and-signs/11-sizes-and-signs.pdf) | [code](11-sizes-and-signs/code) |
 | 12 | [Data Type Ranges](12-data-type-ranges/README.md)<br><sub>limits.h, float.h and overflow</sub> | [PDF](12-data-type-ranges/12-data-type-ranges.pdf) | [code](12-data-type-ranges/code) |
 | 13 | [ASCII and Escape Sequences](13-ascii-and-escape-sequences/README.md)<br><sub>Characters, codes and the backslash</sub> | [PDF](13-ascii-and-escape-sequences/13-ascii-and-escape-sequences.pdf) | [code](13-ascii-and-escape-sequences/code) |
+| 14 | [Variables and Constants](14-variables-and-constants/README.md)<br><sub>Values that change, and values that don't</sub> | [PDF](14-variables-and-constants/14-variables-and-constants.pdf) | [code](14-variables-and-constants/code) |
 
 ## Using the code
 

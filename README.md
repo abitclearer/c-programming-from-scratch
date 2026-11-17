@@ -22,6 +22,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 14 | [Variables and Constants](14-variables-and-constants/README.md)<br><sub>Values that change, and values that don't</sub> | [PDF](14-variables-and-constants/14-variables-and-constants.pdf) | [code](14-variables-and-constants/code) |
 | 15 | [Arithmetic Operators](15-arithmetic-operators/README.md)<br><sub>Doing math in C, from 9 / 2 to ++</sub> | [PDF](15-arithmetic-operators/15-arithmetic-operators.pdf) | [code](15-arithmetic-operators/code) |
 | 16 | [Expression Evaluation](16-expression-evaluation/README.md)<br><sub>Precedence, conversions and the order C never promised</sub> | [PDF](16-expression-evaluation/16-expression-evaluation.pdf) | [code](16-expression-evaluation/code) |
+| 17 | [If Statements](17-if-statements/README.md)<br><sub>Making decisions with if, else and else if</sub> | [PDF](17-if-statements/17-if-statements.pdf) | [code](17-if-statements/code) |
 
 ## Using the code
 

@@ -25,6 +25,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 17 | [If Statements](17-if-statements/README.md)<br><sub>Making decisions with if, else and else if</sub> | [PDF](17-if-statements/17-if-statements.pdf) | [code](17-if-statements/code) |
 | 18 | [Relational Operators](18-relational-operators/README.md)<br><sub>Comparing values in C</sub> | [PDF](18-relational-operators/18-relational-operators.pdf) | [code](18-relational-operators/code) |
 | 19 | [Ternary Operator](19-ternary-operator/README.md)<br><sub>The conditional operator ?: in C</sub> | [PDF](19-ternary-operator/19-ternary-operator.pdf) | [code](19-ternary-operator/code) |
+| 20 | [Logical Operators](20-logical-operators/README.md)<br><sub>&&, || and ! in C</sub> | [PDF](20-logical-operators/20-logical-operators.pdf) | [code](20-logical-operators/code) |
 
 ## Using the code
 

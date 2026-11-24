@@ -27,6 +27,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 19 | [Ternary Operator](19-ternary-operator/README.md)<br><sub>The conditional operator ?: in C</sub> | [PDF](19-ternary-operator/19-ternary-operator.pdf) | [code](19-ternary-operator/code) |
 | 20 | [Logical Operators](20-logical-operators/README.md)<br><sub>&&, || and ! in C</sub> | [PDF](20-logical-operators/20-logical-operators.pdf) | [code](20-logical-operators/code) |
 | 21 | [The switch Statement](21-the-switch-statement/README.md)<br><sub>case, break and default in C</sub> | [PDF](21-the-switch-statement/21-the-switch-statement.pdf) | [code](21-the-switch-statement/code) |
+| 22 | [The while Loop](22-the-while-loop/README.md)<br><sub>Repeat while a condition is true</sub> | [PDF](22-the-while-loop/22-the-while-loop.pdf) | [code](22-the-while-loop/code) |
 
 ## Using the code
 

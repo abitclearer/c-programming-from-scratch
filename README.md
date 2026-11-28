@@ -29,6 +29,7 @@ Every episode has a colour PDF of illustrated notes (summary, diagrams, code, qu
 | 21 | [The switch Statement](21-the-switch-statement/README.md)<br><sub>case, break and default in C</sub> | [PDF](21-the-switch-statement/21-the-switch-statement.pdf) | [code](21-the-switch-statement/code) |
 | 22 | [The while Loop](22-the-while-loop/README.md)<br><sub>Repeat while a condition is true</sub> | [PDF](22-the-while-loop/22-the-while-loop.pdf) | [code](22-the-while-loop/code) |
 | 23 | [The for Loop](23-the-for-loop/README.md)<br><sub>Three parts, one line</sub> | [PDF](23-the-for-loop/23-the-for-loop.pdf) | [code](23-the-for-loop/code) |
+| 24 | [The do while Loop](24-the-do-while-loop/README.md)<br><sub>Do first, check later</sub> | [PDF](24-the-do-while-loop/24-the-do-while-loop.pdf) | [code](24-the-do-while-loop/code) |
 
 ## Using the code
 
